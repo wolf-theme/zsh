@@ -11,7 +11,6 @@
 2. ```Set ZSH_THEME="wolf-theme"  ```
 
 ### Team
-### Team
 [![Igor Oliveira](https://avatars0.githubusercontent.com/u/14060827?v=3&s=70)](https://github.com/devigor) |
 --- |
 [Igor Oliveira](https://github.com/devigor) |
